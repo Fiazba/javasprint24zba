@@ -13,32 +13,32 @@ public class DBManager {
         tasks.add(
                 new Tasks(1,
                         "Create Web application in Java EE",
-                        "Develop an app based on the requirements",
-                        "10/04/2023")
+                        "Create Web very good tasks for yourself",
+                        "23.10.2021")
         );
         tasks.add(
                 new Tasks(2,
                         "Clean house and buy groceries",
                         "Vacuum clean, mop the floors, go to Magnum - take bags",
-                        "16/04/2023")
+                        "25.10.2021")
         );
         tasks.add(
                 new Tasks(3,
                         "Do all homeworks",
-                        "DELE tasks, reading and translation, learn new words and make sentences",
-                        "20/04/2023")
+                        "all homeworks po fizike i po bitlab",
+                        "28.10.2021")
         );
         tasks.add(
                 new Tasks(4,
-                        "Do pilates",
-                        "Pilates course, training 4",
-                        "20/04/2023")
+                        "Go To Gum",
+                        "5 podxodov po 12 raz Pushups",
+                        "12.12.2021")
         );
         tasks.add(
                 new Tasks(5,
-                        "Upload project to Github",
+                        "Uchit Italy yazyk",
                         "Verify the tasks, upload link to portal, inform the tutor",
-                        "19/04/2023")
+                        "01.05.21")
         );
     }
 
